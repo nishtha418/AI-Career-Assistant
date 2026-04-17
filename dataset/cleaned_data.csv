@@ -1,0 +1,217 @@
+skills,job_role
+aws  agile  machine learning  kubernetes  mongodb  ruby,engineering manager
+java  agile  git  sql  ruby  go,engineering manager
+aws  python  kubernetes  git,engineering manager
+agile  git  docker  rest apis  typescript,lead engineer
+agile  ruby  docker  git  javascript,senior software engineer
+ci/cd  python  kubernetes  javascript  sql  docker  machine learning,senior software engineer
+machine learning  typescript  node.js  docker  python  rest apis  ci/cd,senior data scientist
+java  python  machine learning,lead engineer
+typescript  kubernetes  aws  javascript  go,lead engineer
+typescript  java  javascript  kubernetes  go,project manager
+machine learning  mongodb  python  rest apis  aws  react  node.js,product manager
+javascript  machine learning  kubernetes  tensorflow,product manager
+java  ci/cd  typescript,project manager
+aws  react  docker  java  kubernetes,product manager
+aws  machine learning  sql  go  typescript,engineering manager
+aws  go  machine learning  git  ruby,engineering manager
+go  sql  aws  java  react,engineering manager
+docker  agile  tensorflow  aws  python  ci/cd,engineering manager
+node.js  agile  java,technical lead
+react  rest apis  java  docker  typescript  machine learning,engineering manager
+tensorflow  ci/cd  python  typescript  java  go  sql,engineering manager
+docker  mongodb  rest apis  go  python  git,senior software engineer
+python  typescript  node.js  tensorflow,senior software engineer
+ruby  react  node.js,senior data scientist
+javascript  java  mongodb,lead engineer
+sql  kubernetes  react  machine learning  python  agile  java,senior data scientist
+git  aws  javascript  machine learning  python  ci/cd,lead engineer
+typescript  python  machine learning  javascript  react,technical lead
+git  java  ci/cd  rest apis  python  kubernetes  go,senior data scientist
+javascript  ci/cd  java  rest apis  docker,lead engineer
+machine learning  node.js  ci/cd,lead engineer
+rest apis  ci/cd  python,data scientist
+aws  ci/cd  rest apis  machine learning  mongodb  agile  react,senior software engineer
+machine learning  node.js  go  react  git  rest apis  ci/cd,senior data scientist
+kubernetes  go  javascript  mongodb  node.js  machine learning,senior software engineer
+mongodb  typescript  java,senior software engineer
+java  agile  ci/cd  javascript  aws,senior software engineer
+typescript  node.js  tensorflow  go  rest apis  react  python,senior software engineer
+ci/cd  git  javascript,senior software engineer
+kubernetes  sql  rest apis  tensorflow  mongodb,technical lead
+mongodb  aws  python  machine learning  kubernetes  javascript,lead engineer
+sql  tensorflow  mongodb  rest apis  docker  node.js,product manager
+sql  tensorflow  node.js  git  aws,technical lead
+typescript  javascript  sql  machine learning  docker,frontend developer
+java  ruby  agile  aws,product manager
+aws  go  javascript  docker  machine learning,solutions architect
+aws  typescript  mongodb  react  ruby  sql  ci/cd,software engineer
+kubernetes  docker  java  tensorflow  python  sql  git,backend developer
+react  rest apis  ci/cd  java  sql  aws,senior software engineer
+javascript  react  git  docker  aws  ruby  typescript,qa engineer
+typescript  git  javascript  react  kubernetes  aws  node.js,project manager
+javascript  go  ci/cd  machine learning,product manager
+java  docker  aws  go  git  typescript  node.js,backend developer
+machine learning  docker  java  agile  react  sql,senior software engineer
+javascript  go  ruby  git  tensorflow  rest apis,project manager
+agile  sql  tensorflow  machine learning,project manager
+node.js  tensorflow  ci/cd  rest apis,software engineer
+ci/cd  go  rest apis  typescript  node.js,machine learning engineer
+machine learning  aws  kubernetes  docker  sql  ruby,project manager
+javascript  git  sql  kubernetes,senior data scientist
+python  rest apis  go  java,devops engineer
+java  ruby  node.js,frontend developer
+agile  rest apis  aws  git  machine learning  ci/cd,machine learning engineer
+java  rest apis  python  javascript,backend developer
+aws  sql  agile  ruby  git  javascript,data scientist
+ruby  mongodb  javascript  ci/cd  machine learning  rest apis  git,devops engineer
+python  aws  java  machine learning  go  docker,product manager
+machine learning  javascript  kubernetes,project manager
+ruby  aws  sql  tensorflow,machine learning engineer
+javascript  agile  kubernetes  react,solutions architect
+typescript  kubernetes  go  git  sql  node.js  tensorflow,machine learning engineer
+ruby  rest apis  aws  ci/cd  typescript  agile  javascript,software engineer
+go  mongodb  ci/cd  machine learning  agile  java,frontend developer
+node.js  tensorflow  typescript  sql,security engineer
+agile  machine learning  python  react,lead engineer
+aws  mongodb  typescript,product manager
+javascript  rest apis  machine learning  react,project manager
+node.js  machine learning  sql  docker  go,software engineer
+mongodb  react  tensorflow,solutions architect
+git  mongodb  go  agile  react  ruby  machine learning,frontend developer
+tensorflow  git  machine learning  python,project manager
+sql  aws  rest apis  kubernetes  machine learning,machine learning engineer
+python  java  tensorflow  git  go  ci/cd  javascript,project manager
+python  mongodb  machine learning  node.js  javascript  ruby,qa engineer
+git  typescript  go,qa engineer
+git  ruby  machine learning  kubernetes  agile  sql,security engineer
+machine learning  git  rest apis  node.js,product manager
+agile  go  node.js,technical lead
+java  go  javascript  python  agile,technical lead
+tensorflow  agile  javascript  ruby  docker  node.js  git,technical lead
+ruby  javascript  tensorflow  docker  typescript  react  ci/cd,technical lead
+ruby  sql  mongodb,software engineer
+sql  ci/cd  go  java,technical lead
+python  javascript  git  docker  java  node.js  ruby,technical lead
+typescript  ci/cd  git,devops engineer
+javascript  python  docker  rest apis,qa engineer
+java  rest apis  git  aws  node.js  machine learning,data scientist
+kubernetes  rest apis  git  java  mongodb  ci/cd,full stack developer
+ruby  docker  agile  python  tensorflow,machine learning engineer
+aws  node.js  tensorflow  ruby,full stack developer
+python  node.js  mongodb  sql  rest apis,solutions architect
+docker  python  rest apis  node.js  java,data scientist
+python  javascript  git  machine learning  go  node.js  ci/cd,technical lead
+agile  typescript  docker  git  java,solutions architect
+machine learning  aws  docker  ruby  kubernetes,qa engineer
+git  typescript  docker  go,frontend developer
+react  kubernetes  docker,technical lead
+typescript  sql  node.js  agile  git  rest apis  machine learning,full stack developer
+ruby  python  aws  node.js  sql  git,devops engineer
+go  react  tensorflow  ruby  java  agile  typescript,solutions architect
+agile  java  git  docker,software engineer
+agile  go  docker  ci/cd,security engineer
+typescript  react  rest apis,qa engineer
+java  kubernetes  typescript  ruby,machine learning engineer
+tensorflow  python  rest apis,qa engineer
+kubernetes  aws  agile  python,ux designer
+react  machine learning  go  sql,technical lead
+python  git  agile  rest apis  react  sql  mongodb,data scientist
+typescript  ci/cd  python  docker  go  ruby  react,security engineer
+go  python  ci/cd,junior developer
+docker  rest apis  aws  java  python  typescript,backend developer
+go  docker  machine learning  python  kubernetes  react  aws,full stack developer
+aws  machine learning  docker  javascript  typescript  java  node.js,software engineer
+python  tensorflow  mongodb  aws  go  javascript  typescript,machine learning engineer
+mongodb  node.js  rest apis,data scientist
+node.js  typescript  machine learning  python  go  agile  ruby,frontend developer
+mongodb  machine learning  sql  ruby  javascript  go  kubernetes,system administrator
+ruby  javascript  agile  sql  ci/cd,backend developer
+kubernetes  docker  node.js  git,full stack developer
+sql  machine learning  typescript  javascript  ci/cd  docker,junior developer
+node.js  sql  docker  kubernetes  javascript,software engineer
+git  ruby  go  machine learning  mongodb,devops engineer
+tensorflow  rest apis  git  agile,full stack developer
+node.js  ci/cd  typescript  kubernetes  mongodb,software engineer
+sql  docker  aws  kubernetes  python,business analyst
+agile  node.js  react  rest apis,system administrator
+aws  go  git  react,machine learning engineer
+machine learning  python  docker  git  node.js,frontend developer
+docker  typescript  rest apis  kubernetes  tensorflow  ruby  react,ux designer
+javascript  kubernetes  rest apis  python  aws  tensorflow,junior developer
+mongodb  typescript  machine learning  ruby  python  agile  tensorflow,solutions architect
+python  react  ci/cd,security engineer
+ci/cd  machine learning  docker  typescript,solutions architect
+aws  ci/cd  python,solutions architect
+kubernetes  tensorflow  javascript  git  react  python  go,machine learning engineer
+rest apis  react  ruby  python  git,security engineer
+machine learning  react  rest apis  ci/cd  go  docker,machine learning engineer
+ci/cd  agile  sql  tensorflow  docker,backend developer
+aws  git  ruby  tensorflow  agile,software engineer
+ci/cd  go  node.js  ruby  rest apis,machine learning engineer
+java  react  agile  docker  python  machine learning,frontend developer
+machine learning  go  git  docker  rest apis  ci/cd,machine learning engineer
+ruby  python  react  java  tensorflow  javascript  rest apis,solutions architect
+node.js  mongodb  go  agile  aws  typescript  machine learning,solutions architect
+ci/cd  python  kubernetes,software engineer
+rest apis  aws  sql,data scientist
+react  node.js  docker  python  ruby,machine learning engineer
+tensorflow  machine learning  node.js  javascript  agile  typescript,software engineer
+go  agile  python  docker  ci/cd  react  tensorflow,solutions architect
+machine learning  python  typescript  kubernetes  rest apis  ruby,devops engineer
+typescript  react  agile  sql  git  go  mongodb,frontend developer
+ruby  go  mongodb  typescript  machine learning,devops engineer
+agile  docker  react  go  sql  kubernetes  ci/cd,devops engineer
+sql  kubernetes  git  go  ruby  agile,system administrator
+go  agile  typescript  ci/cd  tensorflow  ruby  java,qa engineer
+agile  kubernetes  machine learning,software engineer
+kubernetes  python  machine learning,solutions architect
+sql  go  typescript  ci/cd  node.js  java,full stack developer
+docker  agile  ruby  sql  machine learning  tensorflow,security engineer
+machine learning  node.js  docker  ci/cd,business analyst
+agile  java  aws  git  machine learning  ruby  docker,junior developer
+agile  go  ci/cd,business analyst
+git  mongodb  rest apis  agile  go  ci/cd  python,junior developer
+ruby  ci/cd  aws  node.js  git  sql,junior developer
+docker  tensorflow  react  agile  python  sql  ci/cd,business analyst
+react  agile  python  docker  javascript  kubernetes,system administrator
+mongodb  python  typescript  react  node.js,junior developer
+mongodb  go  ci/cd  react  java  kubernetes  git,junior developer
+agile  tensorflow  ruby  javascript  docker,ux designer
+node.js  react  rest apis  kubernetes,system administrator
+python  ruby  machine learning  sql  docker,system administrator
+aws  react  agile  typescript,system administrator
+typescript  git  go,business analyst
+docker  aws  mongodb  kubernetes  javascript,data analyst
+rest apis  aws  react,system administrator
+ruby  react  javascript  typescript  sql  aws,ux designer
+node.js  react  machine learning  ci/cd  agile  typescript  java,system administrator
+aws  javascript  mongodb  tensorflow  machine learning  ruby  agile,business analyst
+ruby  node.js  git  tensorflow  ci/cd,business analyst
+mongodb  machine learning  javascript  aws  node.js  python,business analyst
+kubernetes  node.js  java  sql  go  react,data analyst
+rest apis  kubernetes  mongodb,business analyst
+java  docker  machine learning,ux designer
+sql  mongodb  ruby  aws,ux designer
+sql  go  javascript  machine learning  rest apis,data analyst
+aws  javascript  machine learning  rest apis  python  git  go,ux designer
+javascript  kubernetes  typescript  python  tensorflow  ruby  git,data analyst
+git  python  aws  react,ux designer
+python  typescript  tensorflow  ruby,data analyst
+python  ci/cd  machine learning  sql,business analyst
+python machine learning tensorflow pandas,data scientist
+python machine learning deep learning pytorch,data scientist
+machine learning ai python,data scientist
+python sklearn pandas,data analyst
+deep learning python neural networks,ml engineer
+python ai ml,data scientist
+python machine learning deep learning nlp,data scientist
+python ai ml tensorflow pytorch,data scientist
+machine learning python data analysis,data scientist
+deep learning neural networks python,ml engineer
+nlp python transformers,data scientist
+python machine learning deep learning nlp,data scientist
+python ai ml tensorflow pytorch,data scientist
+machine learning python data analysis,data scientist
+deep learning neural networks python,ml engineer
+nlp python transformers,data scientist
