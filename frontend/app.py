@@ -64,7 +64,7 @@ if uploaded_file:
 
             # ----------- PREDICTION -----------
             response = requests.get(
-                f"http://127.0.0.1:8000/predict?skills={skills_string}"
+                f"https://ai-career-assistant-e0ze.onrender.com/predict?skills={skills_string}"
             )
             data = response.json()
 
@@ -82,7 +82,7 @@ if uploaded_file:
             top_role = data["results"][0]["role"]
 
             gap_response = requests.get(
-                f"http://127.0.0.1:8000/skill-gap?skills={skills_string}&role={top_role}"
+                f"https://ai-career-assistant-e0ze.onrender.com/skill-gap?skills={skills_string}&role={top_role}"
             )
             gap_data = gap_response.json()
 
