@@ -113,7 +113,7 @@ with tab1:
     if st.button("Predict"):
         if skills_input:
             response = requests.get(
-                f"http://127.0.0.1:8000/predict?skills={skills_input}"
+                f"https://ai-career-assistant-e0ze.onrender.com/predict?skills={skills_input}"
             )
             data = response.json()
 
@@ -141,7 +141,7 @@ with tab2:
     if st.button("Analyze"):
         if gap_skills and target_role:
             response = requests.get(
-                f"http://127.0.0.1:8000/skill-gap?skills={gap_skills}&role={target_role}"
+                f"https://ai-career-assistant-e0ze.onrender.com/skill-gap?skills={gap_skills}&role={target_role}"
             )
             data = response.json()
 
